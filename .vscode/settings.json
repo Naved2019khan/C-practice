@@ -30,5 +30,6 @@
 
         "configurations": [],
         "compounds": []
-    }
+    },
+    "git.allowForcePush": true
 }
