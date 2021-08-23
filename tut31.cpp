@@ -18,7 +18,7 @@ public:
     friend int dist(dis, dis);
  };
 int dist(dis c1, dis c2)
-{
+{ 
     int d;
     d = sqrt((pow((c1.a - c2.a), 2)) + (pow((c1.b - c2.b), 2)));
     return d;
