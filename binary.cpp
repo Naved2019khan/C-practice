@@ -21,7 +21,7 @@ int main()
         cout<< s[i] << "\t";
     }
     cout << "\n binary of number "<<n<<endl;
-    for (i = chk; i >= 0; i--)
+    for (i = chk; i >= 0; i--)  
     {
         cout << s[i] << "\t";
     }
