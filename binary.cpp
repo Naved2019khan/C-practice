@@ -8,7 +8,7 @@ int main()
     q = n;
     for (i = 0; q != 1; i++)
     {
-        r = q % 2;
+        r = q % 2; 
         q = q / 2;
         s[i] = r;
     }
