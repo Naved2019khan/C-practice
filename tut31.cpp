@@ -26,7 +26,6 @@ int dist(dis c1, dis c2)
 int main()
 {
     dis n1(1, 4), n2(3, 8);
-    dis n1(1, 4), n2(3, 8);
 
     n1.display();
     n2.display();
